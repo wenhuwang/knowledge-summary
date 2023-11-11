@@ -1,47 +1,182 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T14:05:45.502Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CuZmhpvs1SU3k7tTo9tL" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-11T11:40:35.815Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HbVRKDw4kKWZg7IoCNuw" version="22.1.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1266" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U_5UaRCAsPwG7vACrCzl-1781" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_5UaRCAsPwG7vACrCzl-1779" target="U_5UaRCAsPwG7vACrCzl-1780">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-8" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 旧石器时代&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="119" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U_5UaRCAsPwG7vACrCzl-1779" value="夏" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="120" width="100" height="40" as="geometry" />
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-13" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 中石器时代&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#EFFFA1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="159" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U_5UaRCAsPwG7vACrCzl-1786" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_5UaRCAsPwG7vACrCzl-1780" target="U_5UaRCAsPwG7vACrCzl-1785">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-14" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 新石器时代&lt;/h1&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-size: 14px;&quot;&gt;（黄河文明、长江文明）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="199" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U_5UaRCAsPwG7vACrCzl-1780" value="商" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="120" width="100" height="40" as="geometry" />
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-17" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;史前时代&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#D5E8D4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="119" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U_5UaRCAsPwG7vACrCzl-1788" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_5UaRCAsPwG7vACrCzl-1785" target="U_5UaRCAsPwG7vACrCzl-1787">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-18" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;传说时代&lt;/h1&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-size: 14px;&quot;&gt;（三皇五帝）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E6D0DE;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="199" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U_5UaRCAsPwG7vACrCzl-1785" value="周" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="520" y="120" width="100" height="40" as="geometry" />
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-21" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;西周&amp;nbsp;&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;前11世纪 --- 前771年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#CDA2BE;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="439" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U_5UaRCAsPwG7vACrCzl-1790" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_5UaRCAsPwG7vACrCzl-1787" target="U_5UaRCAsPwG7vACrCzl-1789">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-22" value="&lt;h1&gt;&amp;nbsp;春秋&amp;nbsp;&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;前770年 --- 前476年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="680" y="479" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U_5UaRCAsPwG7vACrCzl-1787" value="春秋" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="120" width="100" height="40" as="geometry" />
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-23" value="&lt;h1&gt;&amp;nbsp;战国&amp;nbsp;&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;前475年 --- 前221年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="680" y="519" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U_5UaRCAsPwG7vACrCzl-1792" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_5UaRCAsPwG7vACrCzl-1789" target="U_5UaRCAsPwG7vACrCzl-1791">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-24" value="&lt;h1&gt;&amp;nbsp; 东周&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 前770年 --- 前256年&lt;/font&gt;&lt;/span&gt;&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#CDA2BE;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="479" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U_5UaRCAsPwG7vACrCzl-1789" value="战国" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="880" y="120" width="100" height="40" as="geometry" />
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-27" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 秦&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;前221年 --- 前207年&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;西楚&lt;/font&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;前206年 --- 前202年&lt;/font&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="559" width="560" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U_5UaRCAsPwG7vACrCzl-1796" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_5UaRCAsPwG7vACrCzl-1791" target="U_5UaRCAsPwG7vACrCzl-1795">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-28" value="&lt;h1&gt;&amp;nbsp; 汉&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;前202年 --- 220年&lt;/font&gt;&lt;/span&gt;&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="639" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="U_5UaRCAsPwG7vACrCzl-1791" value="秦" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="120" width="100" height="40" as="geometry" />
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-19" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;夏&lt;/h1&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-size: 14px;&quot;&gt;前21世纪 --- 前17世纪&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="279" width="560" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U_5UaRCAsPwG7vACrCzl-1795" value="汉" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="120" width="100" height="40" as="geometry" />
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-20" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;商&lt;/h1&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;font style=&quot;font-size: 14px;&quot;&gt; 前17世纪 --- 前11世纪&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="359" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-26" value="&lt;h1&gt;&amp;nbsp; 周&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;前770年 --- 前256年&lt;/font&gt;&lt;/span&gt;&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E6D0DE;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="439" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-29" value="&lt;h1&gt;&amp;nbsp;西汉&amp;nbsp;&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;前202年 --- 9年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="639" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-30" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;更始政权&lt;/font&gt;&lt;/span&gt;&amp;nbsp;&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;23年 --- 25年&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&amp;nbsp; 东汉&amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;25年 --- 220年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="719" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-31" value="&lt;h1&gt;&amp;nbsp;新&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;9年 --- 23年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="679" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-34" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;蜀汉&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;221&lt;font style=&quot;background-color: initial;&quot;&gt;年 --- 263年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="799" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-35" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 吴&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;22&lt;font style=&quot;&quot;&gt;9年&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt; --- 280年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="790" y="799" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-36" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;魏&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;220&lt;font style=&quot;background-color: initial;&quot;&gt;年 --- 266年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=#D5E8D4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="799" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-37" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 三国&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;220&lt;font style=&quot;background-color: initial;&quot;&gt;年 --- 280年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E6D0DE;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="799" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-39" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 西晋&amp;nbsp;&amp;nbsp;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;266&lt;font style=&quot;&quot;&gt;年&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt; --- 316年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="879" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-40" value="&lt;h1&gt;&amp;nbsp; 晋&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;226年 --- 420年&lt;/font&gt;&lt;/span&gt;&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="879" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-41" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 东晋&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;317&lt;font style=&quot;&quot;&gt;年&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt; --- 420年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="919" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-42" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;五胡十六国&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;304&lt;font style=&quot;background-color: initial;&quot;&gt;年 --- 439年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E6D0DE;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="919" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-43" value="&lt;h1&gt;&amp;nbsp;宋&amp;nbsp;&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;420年 --- 479年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="999" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-44" value="&lt;h1&gt;&amp;nbsp;齐&amp;nbsp;&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;479年 --- 502年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1039" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-45" value="&lt;h1&gt;&amp;nbsp;梁&amp;nbsp;&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;502年 --- 557年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1079" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-46" value="&lt;h1&gt;&amp;nbsp;陈&amp;nbsp;&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;557年 --- 589年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1119" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-47" value="&lt;h1&gt;&amp;nbsp; 北魏&amp;nbsp;&amp;nbsp;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;386&lt;font style=&quot;&quot;&gt;年&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt; --- 534年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="680" y="999" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-48" value="&lt;h1&gt;&amp;nbsp; 西魏&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;535&lt;font style=&quot;&quot;&gt;年&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt; --- 557年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1039" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-49" value="&lt;h1&gt;&amp;nbsp; 东魏&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;534&lt;font style=&quot;&quot;&gt;年&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt; --- 550年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1039" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-50" value="&lt;h1&gt;&amp;nbsp; 北周&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;557&lt;font style=&quot;&quot;&gt;年&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt; --- 581年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1099" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-51" value="&lt;h1&gt;&amp;nbsp; 北齐&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;550&lt;font style=&quot;&quot;&gt;年&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt; --- 577年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1099" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-52" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/h1&gt;&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;南北朝&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal; background-color: initial;&quot;&gt;420年 --- 589年&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=#D5E8D4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="999" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-55" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 隋&amp;nbsp;&amp;nbsp;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;581&lt;font style=&quot;&quot;&gt;年&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt; --- 619年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1159" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-56" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 唐&amp;nbsp;&amp;nbsp;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;618&lt;font style=&quot;&quot;&gt;年&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt; --- 907年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;武周&lt;/font&gt;&lt;/span&gt;&amp;nbsp;&amp;nbsp;&lt;font style=&quot;font-weight: normal; background-color: initial; border-color: var(--border-color); font-size: 14px;&quot;&gt;690&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;年&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;--- 705年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1199" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-57" value="&lt;h1&gt;&amp;nbsp;后梁&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;557年 --- 589年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1279" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-58" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;辽&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（契丹）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;916年 --- 1125年&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;西辽&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1124年 --- 1218年&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E6D0DE;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1279" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-59" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;十国&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（吴、南唐、吴越、闽、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;前蜀、荆南、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;楚、南汉、北汉）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1124年 --- 1218年&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF2CC;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1279" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-60" value="&lt;h1&gt;&amp;nbsp;后唐&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;557年 --- 589年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1319" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-61" value="&lt;h1&gt;&amp;nbsp;后晋&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;557年 --- 589年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1359" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-62" value="&lt;h1&gt;&amp;nbsp;后汉&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;557年 --- 589年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1399" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-63" value="&lt;h1&gt;&amp;nbsp;后周&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;557年 --- 589年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1439" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-64" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/h1&gt;&lt;h1&gt;&amp;nbsp; &amp;nbsp; 五代十国&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal; background-color: initial;&quot;&gt;907年 --- 979年&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=#D5E8D4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1280" width="160" height="199" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-65" value="&lt;h1&gt;&amp;nbsp; 晋&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;960年 --- 1279年&lt;/font&gt;&lt;/span&gt;&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1479" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-66" value="&lt;h1&gt;&amp;nbsp; 北宋&amp;nbsp;&amp;nbsp;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;960&lt;font style=&quot;&quot;&gt;年&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt; --- 1127年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1479" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-67" value="&lt;h1&gt;&amp;nbsp; 南宋&amp;nbsp;&amp;nbsp;&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;&quot;&gt;1127年&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt; --- 1279年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1519" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-68" value="&lt;h1&gt;&amp;nbsp;西夏&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;1038年---1227年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E6D0DE;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1519" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-69" value="&lt;h1&gt;&amp;nbsp;金&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;1115年---1234年&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1519" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-70" value="&lt;h1&gt;&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;大蒙古国 &lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1206年 --- 1635年&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;元 &lt;/b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1271年 --- 1368年&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;北元&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&amp;nbsp; 1368年 --- 1388年&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E6D0DE;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1599" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-71" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;明&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; font-weight: normal; background-color: initial;&quot;&gt;1368年---1644年&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;南明&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; font-weight: normal; background-color: initial;&quot;&gt; 1644年 --- 1662年&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1719" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-72" value="&lt;h1&gt;&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;后金&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1616年 --- 1636年&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp; 清&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1636年 --- 1912年&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E6D0DE;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1799" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-73" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 中华民国&lt;/h1&gt;&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;大陆时期&lt;/span&gt;&amp;nbsp;&amp;nbsp;&lt;font style=&quot;font-weight: normal; background-color: initial; border-color: var(--border-color); font-size: 14px;&quot;&gt;1912&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;年&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;--- 1949年&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1879" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-74" value="&lt;h1&gt;中华人民共和国&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; font-weight: normal; background-color: initial;&quot;&gt;1949年至今&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#E1FFE1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1959" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-75" value="&lt;h1&gt;中华民国&lt;/h1&gt;&lt;h1&gt;&amp;nbsp; &lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;台湾时期&lt;/span&gt;&amp;nbsp;&lt;font style=&quot;font-weight: normal; background-color: initial; border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;1949年至今&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#FFF1C9;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1959" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="560" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="AQpUIIA8IxHW-rEb-FIZ-76" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%22History_of_China%22_for_template_heading_%28right-to-left%29.svg/240px-%22History_of_China%22_for_template_heading_%28right-to-left%29.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="484.11" y="44" width="294.73" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
